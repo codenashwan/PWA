@@ -28,8 +28,7 @@
 
 <body>
 <div class="holder">
-        <h1>Meow!</h1>
-        <img src="https://placekitten.com/300/400" alt="cute kitties">
+        <h1>InstalApp (Akocopy) </h1>
     </div>
 </body>
 
