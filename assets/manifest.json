@@ -1,0 +1,59 @@
+{
+    "name": "Akocopy - ئاکۆکۆپی",
+    "short_name": "Akocopy",
+    "theme_color": "#359FAC",
+    "background_color": "#fff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": ".",
+    "orientation": "portrait",
+    "prefer_related_applications": 1,
+    "icons": [
+      {
+        "src": "img/pwa/icon/72.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "img/pwa/icon/96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "img/pwa/icon/128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "img/pwa/icon/144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "img/pwa/icon/152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      },
+      {
+        "src": "img/pwa/icon/192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "img/pwa/icon/192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "img/pwa/icon/384.png",
+        "sizes": "384x384",
+        "type": "image/png"
+      },
+      {
+        "src": "img/pwa/icon/512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
